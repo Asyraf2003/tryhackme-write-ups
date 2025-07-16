@@ -36,7 +36,7 @@ This room is designed to introduce you to the fundamental concepts and workflow 
 ## 📸 Practice Documentation
 
 ### Output of `dirb`
-![dirb output](./dirb.png)
+![dirb output](screenshots/terbaru.png)
 
 ---
 
