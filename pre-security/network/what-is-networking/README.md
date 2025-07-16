@@ -59,15 +59,6 @@ This room introduces the foundational concepts of computer networking. It's desi
 
 ---
 
-## ✅ Checklist Progress
-
-- [x] Completed all questions in the room  
-- [x] Tested all relevant commands manually  
-- [x] Understood key concepts about networking  
-- [x] Scheduled a review in 7 days
-
----
-
 ## 💬 Personal Reflection
 
 > “This room opened my eyes to how networking works under the surface. I always thought the internet was just ‘magic,’ but now I understand the roles of IPs, DNS, and how packets move. Can’t wait to dive deeper into protocols and packet analysis.”
