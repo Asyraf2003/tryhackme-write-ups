@@ -52,7 +52,7 @@ You will explore essential defensive tasks such as:
 ## 🔗 Additional Links
 
 - 🔗 [TryHackMe Room Link](https://tryhackme.com/room/defensivesecurityintro)
-- 📄 [GitHub Write-Up Repository](https://github.com/Asyraf2003/tryhackme-writeups/tree/main/pre-security/network-fundamentals)
+- 📄 [My Notion Write-Up](https://www.notion.so/TryHackMe-Defensive-Security-Intro-232140182520803c88eee2b90fa58577?source=copy_link)
 
 ---
 
