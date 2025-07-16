@@ -48,7 +48,7 @@ This room is designed to introduce you to the fundamental concepts and workflow 
 
 ## 🔗 Additional Links
 
-- 🔗 [Room TryHackMe Link](https://tryhackme.com/room/whatisnetworking)
+- 🔗 [Room TryHackMe Link](https://tryhackme.com/room/offensivesecurityintro)
 - 📄 [My Notion Write-Up](https://www.notion.so/TryHackMe-Offensive-Security-Intro-232140182520802db635f615be2415ac?source=copy_link)
 - 📄 [Screenshots](./screenshots)
 
