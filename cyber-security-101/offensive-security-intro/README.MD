@@ -36,7 +36,7 @@ This room is designed to introduce you to the fundamental concepts and workflow 
 ## 📸 Practice Documentation
 
 ### Output of `dirb`
-![dirb output](path/to/screenshot.png)
+![dirb output](./dirb.png)
 
 ---
 
@@ -50,5 +50,9 @@ This room is designed to introduce you to the fundamental concepts and workflow 
 
 - 🔗 [Room TryHackMe Link](https://tryhackme.com/room/whatisnetworking)
 - 📄 [My Notion Write-Up](https://www.notion.so/TryHackMe-Offensive-Security-Intro-232140182520802db635f615be2415ac?source=copy_link)
-- 📄 [Screenshots](https://github.com/Asyraf2003/tryhackme-write-ups/edit/main/cyber-security-101/offensive-security-intro/screenshots)
+- 📄 [Screenshots](./screenshots)
+
+---
+
+> 💡 *This write-up follows TryHackMe’s ethical guidelines: no answer spoilers, only concept summaries and personal learning notes.*
 
